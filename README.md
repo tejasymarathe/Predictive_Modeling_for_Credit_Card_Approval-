@@ -47,7 +47,7 @@ The machine learning approaches will leverage customer information to predict cr
 - **Google Colab**: Cloud-based Jupyter notebook environment.
 - **Jupyter Notebook**: Interactive computing environment.
 - **MySQL**: Database management system.
-- **PyMySQL**: Python library for MySQL.
+- **DuckDB**: Analytical SQL database engine.
 
 ## Datasets
 
@@ -56,7 +56,7 @@ The machine learning approaches will leverage customer information to predict cr
 
 ## SQL Queries
 
-Using cleaned data, the following queries will be performed using MySQL or PyMySQL:
+Using cleaned data, the following queries will be performed using MySQL or DuckDB:
 1. Group customers based on their income type and find the average annual income.
 2. Find female owners of cars and property.
 3. Find male customers who are staying with their families.
