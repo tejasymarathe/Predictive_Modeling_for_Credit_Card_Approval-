@@ -1,5 +1,7 @@
 # Credit Card Approval Prediction Project
 
+![Alt text](image.jpeg)
+
 ## Problem Statement
 
 This project aims to predict credit card approval using machine learning and data analysis techniques. The goal is to develop a predictive model that helps banks assess the creditworthiness of applicants, reducing the risk of issuing credit cards to potentially unreliable clients. By leveraging customer data and machine learning algorithms, this project intends to provide insights and improve decision-making in the banking sector.
